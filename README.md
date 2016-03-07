@@ -62,7 +62,7 @@ Supported methods: `random`, `add`
 
 ###### random
 ```javascript
-    var n=new ThreeNplus1().random(1000) // Creates a random number of about 1000 decimal digits
+    var n=new ThreeNplus1().random(1000); // Creates a random number of about 1000 decimal digits
     console.log(n.tostring()); // prints out the number of ups and downs
 ```
 
